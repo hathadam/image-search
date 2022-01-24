@@ -1,5 +1,5 @@
 
-# Movie List
+# Image Search
 
 ## Getting Started
 
