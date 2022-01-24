@@ -8,7 +8,7 @@
 2. Get API key from http://unsplash.com/
 
   ```
-  create config.js inside src/api dirtory and you can follow config.example.js format
+  create config.js inside src/api dirtory and follow config.example.js for the correct format
   ```
 
 3. In one of the two seperate terminal tabs run the following script:
